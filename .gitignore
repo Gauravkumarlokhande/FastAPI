@@ -1,2 +1,3 @@
 "# ignore these files/folders" 
 comprimo/
+__pycache__
