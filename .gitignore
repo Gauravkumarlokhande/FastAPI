@@ -1,3 +1,7 @@
 "# ignore these files/folders" 
 comprimo/
+
 __pycache__
+=======
+README.md
+
